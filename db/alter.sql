@@ -1,0 +1,3 @@
+-- alter table houses add column image text;
+-- alter table houses add column monthly_mortgage decimal;
+-- alter table houses add column rent decimal;
